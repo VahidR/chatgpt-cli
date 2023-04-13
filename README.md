@@ -1,5 +1,5 @@
 # chatgpt-cli
-A very simple and stupid CLI (bash) interface to ChatGPT to ask a question and ask questions and parse data from the Terminal. 
+A very simple and stupid CLI (bash) interface to ChatGPT to ask questions and parse the data from the Terminal. 
 There is a galaxy of possibilities for adding commands and making it much better. You are welcome to fork and evolve your own...
 
 ## Dependencies
