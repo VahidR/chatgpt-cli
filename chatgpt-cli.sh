@@ -1,4 +1,4 @@
-#!/bin/zsh
+#!/bin/bash
 
 function hey_gpt {
     gpt=$(curl https://api.openai.com/v1/chat/completions -s \
